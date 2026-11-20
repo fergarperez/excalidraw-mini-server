@@ -1,0 +1,9 @@
+{
+  "name": "excalidraw-mini-server",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
